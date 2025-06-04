@@ -1,15 +1,16 @@
 <h1 align="center">Hello, I'm Hoang Phuc Huynh. Thanks for visiting my GitHub! 👋🏻</h1>
 
 # 💫 About Me:
+
 <img width="33%" align="right" alt="Github" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3gwM2lyanpnN283dm9zZGhiM2RrM2g0cTBodHo1amNrdm9wOXhjNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" />
 
-**I'm Hoang Phuc Huynh, a passionate and detail-oriented Full-Stack Developer based in Toronto.**
+I'm Hoang Phuc Huynh, a passionate and detail-oriented Full-Stack Developer based in Toronto.
 
-**I'm currently pursuing a Computer Programming & Analysis Advanced Diploma at Seneca Polytechnic, where I've maintained a 4.0 GPA and earned a spot on the President's Honor List.**
+I'm currently pursuing a Computer Programming & Analysis Advanced Diploma at Seneca Polytechnic, where I've maintained a 4.0 GPA and earned a spot on the President's Honor List.
 
-**I love bringing ideas to life through clean, efficient code — whether it's designing interactive web applications, building RESTful APIs, or optimizing database performance.**
+I love bringing ideas to life through clean, efficient code — whether it's designing interactive web applications, building RESTful APIs, or optimizing database performance.
 
-**I thrive in collaborative environments and enjoy learning new technologies that push the boundaries of what I can create. Let's build something awesome together!**
+I thrive in collaborative environments and enjoy learning new technologies that push the boundaries of what I can create. Let's build something awesome together!
 
 # 🌐 Socials
 
@@ -104,6 +105,7 @@
 </div>
 
 # 🔝 Top Contributed Repo
+
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Harry-Huynh&limit=5&theme=onedark&combine_all_yearly_contributions=true" />
 
