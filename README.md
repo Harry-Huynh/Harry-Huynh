@@ -28,7 +28,7 @@ I thrive in collaborative environments and enjoy learning new technologies that 
 
 <div align="center">
 
-**My portfolio here** [✨ Click me ✨](https://hoangphuchuynh-portfolio.vercel.app/)
+**My portfolio here** [✨ Click me ✨](https://www.hoangphuchuynh.me/)
 
 </div>
 
